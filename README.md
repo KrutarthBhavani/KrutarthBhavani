@@ -9,7 +9,6 @@
 
 </br>
 </br>
-</br>
 <h3 align="left">Skills:</h3>
 💻 <b>Programming Languages</b>
 <p align="left"> 
