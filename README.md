@@ -7,7 +7,9 @@
 <a href="https://medium.com/@krutarthbhavani786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krutarthbhavani786" height="60" width="60" /></a>
 </p>
 
-
+<p></p>
+<p></p>
+<p></p>
 <h3 align="left">Skills:</h3>
 💻 <b>Programming Languages</b>
 <p align="left"> 
