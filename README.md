@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krutarth Bhavani</h1>
-<h3 align="center">A Software Engineer with over 2+ years of experience and a diverse skill set, proven track record of delivering high-performance web applications, and cloud-based solutions.</h3>
+<h3 align="center">A Software Engineer with over 3+ years of experience and a diverse skill set, proven track record of delivering high-performance web applications, and cloud-based solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
