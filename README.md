@@ -10,7 +10,7 @@
 </br>
 </br>
 <h3 align="left">Skills:</h3>
-💻 <h3><b>Programming Languages</h3></b>
+<h3><b>💻  Programming Languages</h3></b>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/> </a>&nbsp&nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> </a> &nbsp&nbsp
