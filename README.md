@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krutarth Bhavani</h1>
 <h3 align="center">A Software Engineer with over 3+ years of experience and a diverse skill set, proven track record of delivering high-performance web applications, and cloud-based solutions.</h3>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/krutarthbhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutarthbhavani" height="60" width="60" /></a>&nbsp&nbsp
-</p>
 
 </br>
 </br>
@@ -90,10 +86,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/> </a>&nbsp&nbsp 
 </p>
 
-<h3 align="left">Keep in touch</h3>
+<h4 align="left">Keep in touch</h4>
 <p align="left">
 <a href="https://linkedin.com/in/krutarthbhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp&nbsp
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" /></a>&nbsp&nbsp
+<a href="mailto:Krutarthbhavani2000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://github.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
 </p>
