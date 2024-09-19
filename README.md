@@ -74,12 +74,12 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
-</br>
+
 <h3><b>🌐  Static Site Generators</h3></b>
 <p align="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-</br>
+
 <h3><b>🛠️  Other</h3></b>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> </a>&nbsp&nbsp 
