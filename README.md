@@ -1,6 +1,5 @@
 <style>
-.small
-{
+.small{
     line-height:100px;
 }
 </style>
