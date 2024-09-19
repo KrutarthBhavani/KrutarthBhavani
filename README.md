@@ -12,7 +12,6 @@ Ever since I was young, I have always enjoyed working on computers & experimenti
 * Proactive problem solver with excellent communication skills looking for opportunities to learn, innovate & evolve continuously.
 
 </br>
-</br>
 <h2 align="left">Skills:</h2>
 <h3><b>💻  Programming Languages</h3></b>
 <p align="left"> 
