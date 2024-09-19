@@ -14,6 +14,7 @@
 </p>
 <p></p>
 <p></p>
+<p></p>
 <h3><b>🌐  Frontend Development</h3></b>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> </a>&nbsp&nbsp
@@ -28,6 +29,7 @@
 </p>
 <p></p>
 <p></p>
+<p></p>
 <h3><b>🚀  Backend Development </h3></b>
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> </a>&nbsp&nbsp
@@ -37,6 +39,7 @@
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
+<p></p>
 <p></p>
 <p></p>
 <h3><b>📱  Mobile App Development</h3></b>
