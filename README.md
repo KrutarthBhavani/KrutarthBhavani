@@ -12,7 +12,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a> &nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>🌐  Frontend Development</h3></b>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> </a>&nbsp&nbsp
@@ -25,7 +25,7 @@
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>🚀  Backend Development</h3></b>
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> </a>&nbsp&nbsp
@@ -35,12 +35,12 @@
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>📱  Mobile App Development</h3></b>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/> </a> &nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>🗄️  Database</h3></b>
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> </a>&nbsp&nbsp
@@ -49,13 +49,13 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>📊  Data Visualization</h3></b>
 <p align="left">
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="50" height="50"/> </a>&nbsp&nbsp 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>☁️  DevOps</h3></b>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> </a>&nbsp&nbsp 
@@ -63,23 +63,23 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>🔧  Backend as a Service (BaaS)</h3></b>
 <p align="left"> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
-</br>
+<p></p>
 <h3><b>🧪  Testing</h3></b>
 <p align="left"> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
-</br>
+<p></p>
 <h3><b>🌐  Static Site Generators</h3></b>
 <p align="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-</br>
+<p></p>
 <h3><b>🛠️  Other</h3></b>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> </a>&nbsp&nbsp 
