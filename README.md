@@ -3,12 +3,11 @@
 
 ### About Me!
 
-Ever since I was young, I have always enjoyed working on computers & experimenting with different technologies. Now with each passing year, my interest has grown manifolds. 
+I am a Software Engineer with over 3 years of experience specializing in full-stack web development and cloud-based solutions across various industries
 
-* Software Engineer with over 2 years of experience specializing in full-stack web development and cloud-based solutions.
-* Bringing forth excellent leadership skills, a self-starter attitude & outstanding work ethic.
-* Highly determined to excel through all endeavours, taking up challenges head-on & putting in the best efforts.
-* Proactive problem solver with excellent communication skills looking for opportunities to learn, innovate & evolve continuously.
+* Ride-sharing (Uber): Full-stack development with Node.js, React.js, and microservices deployment with Docker.
+* Fintech (KPMG): Backend development using Java, MongoDB, and cloud infrastructure (AWS).
+* Healthtech (Espire Info Labs): Frontend development with Angular and optimization of data storage with MySQL.
 
 </br>
 <h2 align="left">Skills:</h2>
