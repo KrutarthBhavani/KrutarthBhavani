@@ -38,10 +38,12 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
 <p></p>
+<p></p>
 <h3><b>📱  Mobile App Development</h3></b>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/> </a> &nbsp&nbsp
 </p>
+<p></p>
 <p></p>
 <h3><b>🗄️  Database</h3></b>
 <p align="left">
@@ -52,11 +54,13 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
 <p></p>
+<p></p>
 <h3><b>📊  Data Visualization</h3></b>
 <p align="left">
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="50" height="50"/> </a>&nbsp&nbsp 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
+<p></p>
 <p></p>
 <h3><b>☁️  DevOps</h3></b>
 <p align="left"> 
@@ -66,10 +70,12 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
 <p></p>
+<p></p>
 <h3><b>🔧  Backend as a Service (BaaS)</h3></b>
 <p align="left"> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
+<p></p>
 <p></p>
 <h3><b>🧪  Testing</h3></b>
 <p align="left"> 
@@ -77,10 +83,12 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
 <p></p>
+<p></p>
 <h3><b>🌐  Static Site Generator</h3></b>
 <p align="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
+<p></p>
 <p></p>
 <h3><b>🛠️  Other</h3></b>
 <p align="left">
