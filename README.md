@@ -95,7 +95,6 @@ I am a Software Engineer with over 3 years of experience specializing in full-st
 <p align="left">
 <a href="https://linkedin.com/in/krutarthbhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp&nbsp
 <a href="mailto:Krutarthbhavani2000@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://github.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp&nbsp
 </p>
 <br>
 
