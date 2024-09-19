@@ -74,19 +74,19 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
-
+</br>
 <h3><b>🌐  Static Site Generators</h3></b>
 <p align="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-
+</br>
 <h3><b>🛠️  Other</h3></b>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> </a>&nbsp&nbsp 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
 
-<h4 align="left">Keep in touch</h4>
+<h4 align="left">Keep in touch! </h4>
 <p align="left">
 <a href="https://linkedin.com/in/krutarthbhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp&nbsp
 <a href="mailto:Krutarthbhavani2000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" /></a>&nbsp&nbsp
