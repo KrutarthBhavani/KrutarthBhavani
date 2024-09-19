@@ -112,7 +112,7 @@ I am a Software Engineer with over 3 years of experience specializing in full-st
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> </a>&nbsp&nbsp 
 </p>
 
-<h4 align="left">Keep in touch! </h4>
+<h2 align="left">Keep in touch! </h2>
 <p align="left">
 <a href="https://linkedin.com/in/krutarthbhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp&nbsp
 <a href="mailto:Krutarthbhavani2000@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" height="40" width="40" /></a>&nbsp&nbsp
