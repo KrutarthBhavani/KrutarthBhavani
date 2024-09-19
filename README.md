@@ -3,7 +3,7 @@
 
 ### About Me!
 
-I am a Software Engineer with over 3 years of experience specializing in full-stack web development and cloud-based solutions across various industries
+I am a Software Engineer with over 3 years of experience specializing in full-stack web development and cloud-based solutions across various industries:
 
 * Ride-sharing (Uber): Full-stack development with Node.js, React.js, and microservices deployment with Docker.
 * Fintech (KPMG): Backend development using Java, MongoDB, and cloud infrastructure (AWS).
