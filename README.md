@@ -117,4 +117,5 @@ I am a Software Engineer with over 3 years of experience specializing in full-st
 <a href="https://github.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp&nbsp
 </p>
 
-<h4>Thank You! ❤️</h4>
+
+### Thank You! :heart:
