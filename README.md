@@ -17,9 +17,7 @@ I am a Software Engineer with over 3 years of experience specializing in full-st
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a> &nbsp&nbsp
 </p>
-
-
-
+<br>
 <h3><b>🌐  Frontend Development</h3></b>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> </a>&nbsp&nbsp
@@ -32,8 +30,7 @@ I am a Software Engineer with over 3 years of experience specializing in full-st
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-
-
+<br>
 <h3><b>🚀  Backend Development </h3></b>
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> </a>&nbsp&nbsp
@@ -43,9 +40,7 @@ I am a Software Engineer with over 3 years of experience specializing in full-st
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/> </a>&nbsp&nbsp
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50"/> </a>&nbsp&nbsp
 </p>
-
-
-
+<br>
 <h3><b>📱  Mobile App Development</h3></b>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/> </a> &nbsp&nbsp
